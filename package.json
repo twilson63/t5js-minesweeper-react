@@ -1,0 +1,24 @@
+{
+  "name": "minesweeper-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "wzrd app.js -- -t [bubleify]"
+  },
+  "keywords": [],
+  "author": "Tom",
+  "license": "ISC",
+  "devDependencies": {
+    "browserify": "^13.0.1",
+    "buble": "^0.10.5",
+    "bubleify": "^0.3.0",
+    "wzrd": "^1.3.1"
+  },
+  "dependencies": {
+    "linchpin": "^1.0.2",
+    "minesweeper": "^1.0.5",
+    "react": "^15.1.0",
+    "react-dom": "^15.1.0"
+  }
+}
